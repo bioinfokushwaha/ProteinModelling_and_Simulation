@@ -1,2 +1,2 @@
 # Workshop
-Materials for the MNNIT workshop
+Materials for the NIAB workshop
